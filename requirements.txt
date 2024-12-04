@@ -1,9 +1,0 @@
-streamlit
-pandas
-requests
-plotly
-sqlalchemy
-psycopg2-binary==2.9.10
-uvicorn
-fastapi
-
