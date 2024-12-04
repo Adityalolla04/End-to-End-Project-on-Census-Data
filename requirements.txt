@@ -3,4 +3,4 @@ pandas
 requests
 plotly
 sqlalchemy
-psycopg2ß
+psycopg2
